@@ -4,7 +4,7 @@ Holberton School logo for cowsay
 ## install cowsay
 ```sudo apt-get install cowsay
 
-## add the holberton option
+## add the holberton file to the cows folder
 Add file holberton.cow to the repo "/usr/share/cowsay/cows/"
 
 ## run
