@@ -1,0 +1,3 @@
+# sudo apt-get install aview
+# sudo apt-get install imagemagick
+asciiview seahorse-red.png -driver curses

@@ -1,0 +1,30 @@
+##
+## Cow Holberton School, from julien@holbertonschool.com
+##
+$the_cow = <<EOC;
+        $thoughts                    @Q**g                                   
+         $thoughts                  *]++]4                                    
+          $thoughts                k]++]++*N#                                 
+                         *C+++]++]++]J*                               
+                       @+]++qwwwp=]++++]*                             
+                      *+++]q#    k+]+]++]4#                           
+                    *C+]+]w#    *]+++]+]++                            
+                we+]wW   ***C++]++]+]++++4                            
+                     *C+]+]]+]++]++]++]+q#                            
+                   *]+]+++++++]++]+++]+++J                            
+                  C++]=]+]+]+]++]++]+]+]+]=                           
+                 k+]++]+++]+]++qwW       AgW                          
+                 k++]++]+]+++qW#                                      
+                 A]++]++]++]++J**                                     
+                  e]++]+++]++]++]J                                    
+                   A]++]+]++]++]++                                    
+                     w]++]+]++]+qW#                                   
+                       w]++++]* ##                                    
+                         Ag]+]++*                                     
+                             we]+]Q                                   
+                         @@+wgdA]+J                                   
+                         k?qwgdC=]4#                                  
+                          w]+]++qw#                                   
+
+               Holberton School
+EOC
