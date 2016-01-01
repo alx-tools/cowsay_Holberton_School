@@ -8,8 +8,8 @@ Holberton School logo for cowsay
 Add file holberton.cow to the repo "/usr/share/cowsay/cows/"
 
 ## run
-```$ cowsay -f holberton ':(){ :|:& };: '
- ________________
+```$ cowsay -f holberton ':(){ :|:& };:'```
+<pre> ________________
 < :(){ :|:& };:  >
  ----------------
         \                    **g
@@ -37,3 +37,4 @@ Add file holberton.cow to the repo "/usr/share/cowsay/cows/"
                           w]+]++qw#
 
                Holberton School
+</pre>
